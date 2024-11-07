@@ -53,6 +53,10 @@ body .down{
     height: 0;
 }
 
+.down > .front{
+    font-size: 1px;
+}
+
 .deactive{
     transform: rotateX(5deg);
     width:120px;
