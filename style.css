@@ -53,7 +53,7 @@ body .down{
     height: 0;
 }
 
-.down > .front{
+.down .front{
     font-size: 1px;
 }
 
